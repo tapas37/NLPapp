@@ -1,2 +1,2 @@
 # NLPapp
-GUI project 
+python GUI oops project 
